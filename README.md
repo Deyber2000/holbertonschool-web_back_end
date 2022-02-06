@@ -27,4 +27,4 @@
 * [x] 620 0x14. Queuing System in JS
 
 ## Software engineer
-[Javier Andrés Garzón Patarroyo](https://www.javierandresgp.com)
+[Deyber Castañeda](github.com/Deyber2000)
